@@ -1,5 +1,5 @@
 name: Greet User
-# on: push
+
 on: push
 jobs:
     greet:
